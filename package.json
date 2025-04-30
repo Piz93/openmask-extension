@@ -14,7 +14,7 @@
     "@ton-community/ton-ledger": "^7.2.0-pre.3",
     "@ton/core": "^0.53.0",
     "@ton/crypto": "^3.2.0",
-    "@ton/ton": "^13.9.0",
+    "@ton/ton": "^13.11.2",
     "@tonconnect/protocol": "^2.2.5",
     "@vespaiach/axios-fetch-adapter": "^0.3.1",
     "bignumber.js": "^9.1.1",
@@ -55,7 +55,7 @@
     "react-scripts": "5.0.1",
     "ts-loader": "^9.3.1",
     "typescript": "^4.7.4",
-    "webpack": "^5.74.0",
+    "webpack": "^5.98.0",
     "webpack-cli": "^4.10.0"
   },
   "scripts": {
